@@ -1,1 +1,0 @@
-# random-bid-generator-app
