@@ -38,13 +38,14 @@ const showText = (phrases) => {
   const newLine = "\n\n";
 
   const text = `${greeting}${newLine}${header}${newLine}${main}${newLine}${footer}`;
-  textareaElement.textContent = text;
+  textareaElement.value = text;
 };
 
 form.addEventListener("change", (event) => {
   event.preventDefault();
 
   if (event.target.value) {
+    textareaElement.value = "";
     const framework = event.target.value;
     const phrases = getPhrases(framework);
     showText(phrases);
