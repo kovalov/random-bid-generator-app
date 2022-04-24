@@ -20,9 +20,11 @@ body {
 }
 
 .main {
-	max-width: 800px;
+	padding: 1rem;
+	height: 100vh;
+	/* max-width: 800px;
 	margin: 0 auto;
-	margin-top: 2rem;
+	margin-top: 2rem; */
 	border-radius: 5px;
 	overflow: hidden;
 }
@@ -62,9 +64,11 @@ body {
 
 .text-result {
 	position: relative;
+	height: 100%;
 }
 .text-result__textarea {
 	width: 100%;
+	height: 100%;
 	background-color: #F5F5F5;
 	border: 0;
 	resize: none;
@@ -88,4 +92,16 @@ body {
 .text-result__button:hover {
 	color: #fff;
 	background-color: #3333FF;
+}
+
+@media (min-width: 480px) {
+	.main {
+		max-width: 800px;
+		margin: 0 auto;
+		margin-top: 2rem;
+	}
+
+	.text-result {
+		height: 600px;
+	}
 }
