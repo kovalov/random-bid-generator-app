@@ -6,10 +6,22 @@
         "header": [
           "I'm a React developer.",
           "Seems like I'm the React developer you are looking for.",
-          "I'm interested in cooperation."
+          "I'm interested in cooperation.",
+          "My track history of successfully developing a wide variety of projects as a React developer for the past 4 years makes me the perfect fit for this role.",
+          "Have seen your advertisement so I want to give you my candidature.\nI am a Senior React developer with about 5 years of professional experience.",
+          "I am a professional React Developer with strong commercial experience.\nI believe that my innovative nature and strong skill set will allow me to succeed and provide you with the best solutions.",
+          "I'm a Senior Front-End Developer and I'm here to help with your project.\nIf you choose me I will make sure that project deadlines are in a timely manner. I'm Fluent in English and my ability to communicate is something you need for good cooperation with a team."
         ],
-        "main": ["Shortly about me skills:"],
-        "footer": ["If you are interested, let's talk."]
+        "main": [
+          "Below you may have a glance at what skills I have: \nJavascript, Typescript\nReact/Redux, ReactJS, NextJS\nHTML5, CSS3, SCSS, Less\nBootstrap, jQuery\nREST APIs, JSON, XML, Webpack, API Authentication\n\nAlso, I:\n- Have an excellent communication with fluent written and spoken English and well-versed in managing the code base with Git;\n- Am experienced working in Agile, with Scrum, Atlassian Jira, Bitbucket, Confluence;\n- Have a very strong work ethic and a strong sense of ownership in delivering the assigned job and tasks.",
+          "To support your choice, here are some details about myself:\n* 5 years of experience in creating ReactJS applications;\n* Highly trained in JavaScript, TypeScript, React/ReactJS (Redux, Hooks, Components), Next, and associated libraries and tools;\n* Strong skills in creating responsive and efficient web applications;\n* Strong skills in testing with Jest, Cypress;\n* Strong interpersonal and soft skills: self-organized, detail-oriented, and hard-working person with passion.",
+          "I am sure that my set of skills will be a great help for you:\n* 5 years of experience in the JavaScript Frontend environment;\n* Highly-trained in JavaScript, TypeScript, React/ReactJS (Redux, Hooks, Components), Next, and associated libraries and tools;\n* Strong skills in creating responsive and efficient web applications with HTML, CSS/SASS/Less, Bootstrap, jQuery, REST, JSON, XML, Babel, Webpack, NPM;\n* Strong skills in testing with Jest, Cypress;\n* Strong interpersonal and soft skills: self-organized, detail-oriented, and hard-working person with passion."
+        ],
+        "footer": [
+          "If you are interested, let's talk.",
+          "Let me know if you are interested in cooperation, and let's discuss the details in chat.",
+          "Let me know if you are interested in our collaboration and let’s arrange an intro call this week."
+        ]
       },
       "angular": {
         "header": ["I'm an Angular expert."],
