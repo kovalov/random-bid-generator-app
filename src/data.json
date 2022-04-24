@@ -1,0 +1,21 @@
+{
+  "greeting": ["Hi!"],
+  "technology": {
+    "frontend": {
+      "react": {
+        "header": [
+          "I'm a React developer.",
+          "Seems like I'm the React developer you are looking for.",
+          "I'm interested in cooperation."
+        ],
+        "main": ["Shortly about me skills:"],
+        "footer": ["If you are interested, let's talk."]
+      },
+      "angular": {
+        "header": ["I'm an Angular expert."],
+        "main": ["Shortly about me skills:"],
+        "footer": ["If you are interested, let's talk."]
+      }
+    }
+  }
+}
